@@ -1,0 +1,5 @@
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.Domains\bin\Debug\GenericRepository.Domains.dll
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.Domains\bin\Debug\GenericRepository.Domains.pdb
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.Domains\obj\Debug\GenericRepository.Domains.csproj.CoreCompileInputs.cache
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.Domains\obj\Debug\GenericRepository.Domains.dll
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.Domains\obj\Debug\GenericRepository.Domains.pdb

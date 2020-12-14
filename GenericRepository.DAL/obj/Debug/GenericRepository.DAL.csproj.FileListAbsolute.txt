@@ -1,0 +1,16 @@
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.DAL.dll.config
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.DAL.dll
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.DAL.pdb
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\bin\Debug\EntityFramework.dll
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.Domains.dll
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.Domains.pdb
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\bin\Debug\EntityFramework.xml
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.csprojAssemblyReference.cache
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.csproj.CoreCompileInputs.cache
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.csproj.CopyComplete
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.dll
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.pdb
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.Migrations.first.resources
+C:\2020\Asp.net MVC\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.csproj.GenerateResource.cache
