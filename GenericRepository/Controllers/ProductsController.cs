@@ -16,6 +16,7 @@ namespace GenericRepository.Controllers
         UnitOfWork uOfWork = new UnitOfWork(new GenericRepoContext());
 
         // GET: Products
+        [HttpGet]
         public ActionResult Index()
         {
             return View(uOfWork.ProductRepository.GetProductsWithSuppliers());
@@ -37,6 +38,7 @@ namespace GenericRepository.Controllers
         }
 
         // GET: Products/Create
+        [HttpGet]
         public ActionResult Create()
         {
             ViewBag.Tedarikciler = uOfWork.SupplierRepository.GetAll();
@@ -61,6 +63,7 @@ namespace GenericRepository.Controllers
         }
 
         // GET: Products/Edit/5
+        [HttpGet]
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -94,6 +97,7 @@ namespace GenericRepository.Controllers
         }
 
         // GET: Products/Delete/5
+        [HttpGet]
         public ActionResult Delete(int? id)
         {
             if (id == null)
