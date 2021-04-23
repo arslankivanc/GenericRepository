@@ -23,6 +23,7 @@ namespace GenericRepository.Controllers
         }
 
         // GET: Products/Details/5
+        [HttpGet]
         public ActionResult Details(int? id)
         {
             if (id == null)
