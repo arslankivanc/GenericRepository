@@ -16,12 +16,14 @@ namespace GenericRepository.Controllers
         UnitOfWork uOfWork = new UnitOfWork(new GenericRepoContext());
 
         // GET: Suppliers
+        [HttpGet]
         public ActionResult Index()
         {
             return View(uOfWork.SupplierRepository.GetAll());
         }
 
         // GET: Suppliers/Details/5
+        [HttpGet]
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -37,6 +39,7 @@ namespace GenericRepository.Controllers
         }
 
         // GET: Suppliers/Create
+        [HttpGet]
         public ActionResult Create()
         {
             return View();
@@ -60,6 +63,7 @@ namespace GenericRepository.Controllers
         }
 
         // GET: Suppliers/Edit/5
+        [HttpGet]
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -91,6 +95,7 @@ namespace GenericRepository.Controllers
         }
 
         // GET: Suppliers/Delete/5
+        [HttpGet]
         public ActionResult Delete(int? id)
         {
             if (id == null)
